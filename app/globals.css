@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Vina';
+  src: url('../assets/fonts/VinaSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url("../assets/fonts/RubikMonoOne-Regular.ttf");
+}
+
+
+body {
+  background-color: #171717
+}
